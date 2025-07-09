@@ -9,7 +9,7 @@ Welcome to my personal **developer portfolio website** — built with **HTML**, 
 
 ## 🚀 Live Demo
 
-🌐 [View Portfolio](https://your-username.github.io/your-repo-name/)  
+🌐 [View Portfolio](https://jatingoyal14.github.io/Portfolio/)  
 
 ---
 
